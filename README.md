@@ -22,9 +22,10 @@
 
 | Project Name | Tech Used | Description |
 |--------------|-----------|-------------|
+| [AI-Powered News Summarizer](https://ai-powered-news.onrender.com/login) | MERN Stack | A full-stack MERN application fetching, summarizing, and analyzing news with sentiment insights. Features bookmarks and analytics dashboard. |
+| [Freelance Platform](https://github.com/786Shruti/Freelance-Marketplace) | PHP, HTML, CSS, MySQL | Post and apply for jobs, includes dashboard |
 | [Quiz App](https://github.com/786Shruti/Quiz-App) | React, REST API | Interactive quiz with score tracking and badges |
 | [Expense Tracker](https://github.com/786Shruti/Expense-Tracker) | PHP, MySQL | Track expenses by category with live updates |
-| [Freelance Platform](https://github.com/786Shruti/Freelance-Marketplace) | PHP, HTML, CSS, MySQL | Post and apply for jobs, includes dashboard |
 | [Image Gallery](https://github.com/786Shruti/Image-Gallery) | JS, HTML, CSS, API | Dynamic uploads and modal view |
 | [YouTube Summarizer](https://github.com/786Shruti/YouTube-Summarizer) | Bolt, n8n (No-code) | Summarizes YouTube videos |
 
